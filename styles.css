@@ -1,0 +1,27 @@
+#header{
+    background-color: aqua;
+    border-radius: 5px;
+}
+
+#game {
+    display: flex;
+    flex-wrap: wrap;
+    width: 960px;
+    height: 960px;
+    margin: auto;
+  }
+
+#vert {
+    width: 100px;
+    height: 100px;
+}
+
+.hori {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
